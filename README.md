@@ -16,11 +16,3 @@ A simple task manager built with Flask.
 ## Run locally
 ```bash
 python app.py
-
-## Preview
-
-### Empty state
-![Empty App](screenshot-empty.jpeg)
-
-### With tasks
-![With Tasks](screenshot-tasks.jpeg)
